@@ -1,5 +1,3 @@
-from urllib import response
-
 from DBclass import ProcessDB, execute_query, execute_write_query
 import config_file
 
